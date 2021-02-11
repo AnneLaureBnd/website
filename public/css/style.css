@@ -572,4 +572,9 @@ footer p:nth-of-type(3):hover {
     .projects .pj1 {
         align-self: auto;
     }
+    
+    .projects a:hover img {
+        transform: scale(1.02);
+        transition: all .5s;
+    }
 }
