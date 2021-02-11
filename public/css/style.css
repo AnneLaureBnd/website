@@ -58,11 +58,11 @@ a {
     
 }
 
-a:hover {
+/* a:hover {
     transform: scale(1.5);
     color: #b2bec3;
     color: var(--soothingBreeze);
-}
+} */
 
 input, select, button {
     border: none;
