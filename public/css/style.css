@@ -556,7 +556,7 @@ footer p:nth-of-type(3):hover {
     **************************************************/
 
     .career .basic_languages i, .career .other_languages i, .career svg {
-        margin-right: 1rem;
+        margin-right: 6rem;
     }
 
     .career p span {
